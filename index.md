@@ -1,13 +1,13 @@
 # Hey friends!
 ## Welcome to Carmen's Pages
 
-You can use the [editor on GitHub](https://github.com/Carmen-China/carmen-china.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It is January 10th, 2019. Today is very cold. I made some soup after work and sit silent to watch the turial of github. It is a pleasant website, I like it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As coders, they are equipped with a unique expression language. Cool.
 
 ### Pleasamt planet~
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Winter is fancy with cool air. Noses and minds are cold.
 
 ```markdown
 Syntax highlighted code block
