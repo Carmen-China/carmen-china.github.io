@@ -1,7 +1,7 @@
 # Hey friends!
 ## Welcome to Carmen's Pages
 
-It is January 10th, 2019. Today is very cold. I made some soup after work and sit silent to watch the turial of github. It is a pleasant website, I like it.
+It is January 10th, 2019. Today is very cold. I made some soup after work and is sitting silent to watch the turial of github. It is a pleasant website, I like it.
 
 As coders, they are equipped with a unique expression language. Cool.
 
